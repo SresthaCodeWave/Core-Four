@@ -20,7 +20,8 @@ Skills
 3. Bootstrap
 
 **Screenshots**
-![image](https://user-images.githubusercontent.com/74773717/137293785-fcc54c26-9f9b-4a87-964a-0f90c3657e46.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/74773717/137297432-7f65ea1b-c5ae-49ef-8c46-c4b69ceaeb15.png)
+
 ![image](https://user-images.githubusercontent.com/74773717/137293876-34b8776e-57f7-4061-b099-b78788f1a086.png)
 ![image](https://user-images.githubusercontent.com/74773717/137294070-895f1116-91c0-43d0-8be0-c1efd9abb7ab.png)
 ![image](https://user-images.githubusercontent.com/74773717/137294259-3a556759-bcbc-495b-a43a-65533f1be8d8.png)
