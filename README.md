@@ -21,10 +21,10 @@ Skills
 
 **Screenshots**
 ![Screenshot (93)](https://user-images.githubusercontent.com/74773717/137297432-7f65ea1b-c5ae-49ef-8c46-c4b69ceaeb15.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/74773717/137297742-97aaa311-7d1b-4315-b421-9883eb91fa12.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/74773717/137297858-703214b5-9461-43f5-9ed9-a214d98444a7.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/74773717/137297964-2ea1c127-36fd-4809-b295-f650e3831782.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/74773717/137298163-4f707f6d-8cf9-4131-9c91-f8bf5c1444c8.png)
+![Screenshot (98)](https://user-images.githubusercontent.com/74773717/137298269-7c34b976-c926-4768-bd0c-db88d861c799.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/74773717/137298378-253218b0-9870-422e-a2cb-0b160877cb55.png)
 
-![image](https://user-images.githubusercontent.com/74773717/137293876-34b8776e-57f7-4061-b099-b78788f1a086.png)
-![image](https://user-images.githubusercontent.com/74773717/137294070-895f1116-91c0-43d0-8be0-c1efd9abb7ab.png)
-![image](https://user-images.githubusercontent.com/74773717/137294259-3a556759-bcbc-495b-a43a-65533f1be8d8.png)
-![image](https://user-images.githubusercontent.com/74773717/137294347-4c6df611-dd29-4086-a4b2-ab4363f4acb8.png)
-![image](https://user-images.githubusercontent.com/74773717/137294411-cf3d60db-f546-4d19-bc77-9845537c31cc.png)
-![image](https://user-images.githubusercontent.com/74773717/137294454-892622c7-1a84-45e6-850d-002f766168e1.png)
