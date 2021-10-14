@@ -1,6 +1,6 @@
 # Welcome to CoreFour!
 -------------------------------
-CoreFour is an e-commerce website dedicated to laptops. Almost all famous brands have been covered on this website. Users do not have to hunt for the best deals on different sites because we have got all of them covered here in one place.
+CoreFour is an e-commerce website dedicated to laptops. Almost all famous brands have been covered on this website. Users do not have to hunt for the best deals on different sites because we have got all of them covered here at one place.
 
 This is a dummy e-commerce website frontend.
 
